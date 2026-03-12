@@ -34,5 +34,24 @@ Follows links on a website and searches pages for information like emails.
 * Multithreading
 
 ## Purpose
+## How to Run the Tools
+
+1. Clone the repository
+
+git clone https://github.com/YOURUSERNAME/python-security-tools.git
+
+2. Move into the project folder
+
+cd python-security-tools
+
+3. Install required libraries
+
+pip install requests beautifulsoup4
+
+4. Run a tool
+
+Example:
+
+python directory_scanner/scanner.py
 
 This project was built as part of a learning journey into Python programming and cybersecurity fundamentals.
